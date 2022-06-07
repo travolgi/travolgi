@@ -21,3 +21,8 @@
   <img alt="Email" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="25">
   <strong>travolgi@gmail.com</strong>
 </a>
+
+##
+<a href="https://www.paypal.com/donate/?hosted_button_id=U6KL273A5BZW8" target="_blank" rel="noopener noreferrer" title="Support me: Pay me a coffee! Donate with PayPal">
+  <img alt="Support me: Pay me a coffee! Donate with PayPal" src="https://pics.paypal.com/00/s/YmJjOTBlNGItMmY4MS00M2M2LWJkYjUtY2MzYzdiN2I2Y2Jh/file.PNG" width="250">
+</a>

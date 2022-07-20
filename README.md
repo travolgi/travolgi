@@ -2,6 +2,12 @@
 # Hi, I’m @travolgi 👋 
 ## Frontend developer & UX designer
 
+We challenge banality by creating well-designed websites, easy to use and focused on the peculiarity that characterizes you:  
+for this reason they are effective!
+
+We do not create simple websites, because **our mission** is to show the world your uniqueness and your true value.  
+We develop your **tailor-made site** differentiating you and putting **your needs and goals first**!
+
 <div align="left">
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45">
   <img alt="CSS3" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45">
@@ -16,7 +22,7 @@
   <img alt="Adobe XD" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg" width="45">
 </div>
 
-## Contact me:
+## CONTACT US NOW:
 <a href="mailto:travolgi@gmail.com" title="Contact me!">
   <img alt="Email" src="https://cdn.worldvectorlogo.com/logos/gmail-icon.svg" width="25">
   <strong>travolgi@gmail.com</strong>

@@ -2,11 +2,15 @@
 # Hi, I’m @travolgi 👋 
 ## Frontend developer & UX designer
 
-We challenge banality by creating well-designed websites, easy to use and focused on the peculiarity that characterizes you:  
+We challenge banality by creating well-designed websites that can impress people with different tastes, easy to use and focused on the peculiarity that characterizes you:  
 for this reason they are effective!
 
 We do not create simple websites, because **our mission** is to show the world your uniqueness and your true value.  
-We develop your **tailor-made site** differentiating you and putting **your needs and goals first**!
+We develop your **tailor-made site** differentiating you and putting **your needs and goals first**!  
+Our team challenges the ordinance and makes everything in its power to **focus on creativity**.
+
+In addition to this, you can get all of our **Website Templates and User Interface elements** on [TemplateMonster](https://www.templatemonster.com/authors/travolgi?utm_campaign=homepage_travolgi&utm_source=website_travolgi&utm_medium=referral&aff=travolgi): simple to use with creative and different designs tailored for each area.
+### [BUY NOW our Themes on TemplateMonster](https://www.templatemonster.com/authors/travolgi?utm_campaign=homepage_travolgi&utm_source=website_travolgi&utm_medium=referral&aff=travolgi)
 
 <div align="left">
   <img alt="HTML5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45">

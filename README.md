@@ -2,8 +2,7 @@
 # Hi, I’m @travolgi 👋 
 ## Frontend developer & UX designer
 
-We challenge banality by creating well-designed websites that can impress people with different tastes, easy to use and focused on the peculiarity that characterizes you:  
-for this reason they are effective!
+We challenge banality by creating **well-designed websites** that can impress people with different tastes, easy to use and focused on the peculiarity that characterizes you: for this reason they are effective!
 
 We do not create simple websites, because **our mission** is to show the world your uniqueness and your true value.  
 We develop your **tailor-made site** differentiating you and putting **your needs and goals first**!  
